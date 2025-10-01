@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Venus Waikhom</h1>
-# 💫 About Me:
-ex RAAPID INC
+<h4>💫 About Me:</h4>
+<p>ex <span><italic>RAAPID INC</italic></span></p>
 <h3 align="center">I'm a Full-Stack Developer and AI/ML enthusiast from Manipur, India. With a degree in Computer Science and Engineering. I'm skilled in React, Node.js, MongoDB, Python, AI/ML development and Blockchain development.</h3>
 
 <h3 align="left">Languages and Tools:</h3>
